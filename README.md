@@ -68,6 +68,9 @@ Consulta de base de datos:
 ```sql
 SELECT * FROM productos;
 ```
+## Capturas de pantalla
+![Pantalla principal del sistema](pantalla-principal.png)
+
 ## Estado del proyecto
 - [x] Diseño de base de datos
 - [x] Modelo de datos
